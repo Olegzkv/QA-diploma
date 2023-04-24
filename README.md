@@ -6,8 +6,8 @@
 
 #### В процессе работы над данным проектом были созданы следующие документы:
 1. [План автоматизации](https://github.com/Olegzkv/QA-diploma/blob/main/docs/Plan.md)
-2. [Отчет о проведенном тестировании](https://github.com/Alisa68/QA-Diploma/blob/master/docs/Report.md)
-3. [Отчет о проведённой автоматизации тестирования](https://github.com/Alisa68/QA-Diploma/blob/master/docs/Summary.md)
+2. [Отчет о проведенном тестировании](https://github.com/Olegzkv/QA-diploma/blob/main/docs/Report.md)
+3. [Отчет о проведённой автоматизации тестирования](https://github.com/Olegzkv/QA-diploma/blob/main/docs/Summary.md)
 
 #### Необходимое окружение:
 - установленный Docker;
